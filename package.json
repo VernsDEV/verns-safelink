@@ -1,0 +1,17 @@
+{
+  "name": "safelink-youtube-locker-v3",
+  "version": "3.0.0",
+  "description": "Hosting-ready YouTube safelink / link locker with Supabase database, animated frontend, and Express backend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
